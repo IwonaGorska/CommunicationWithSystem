@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1534346920 source:c:\users\lenovo-pc\desktop\background_processes\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<stdlib.h>
+	<string>
+	<time.h>
+
